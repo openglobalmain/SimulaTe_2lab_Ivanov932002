@@ -1,0 +1,33 @@
+C:\Users\Alexandr\Desktop\Semak 6\Imitation modelling\laba 2\try 1\try 1\bin\Debug\try 1.exe.config
+C:\Users\Alexandr\Desktop\Semak 6\Imitation modelling\laba 2\try 1\try 1\bin\Debug\try 1.exe
+C:\Users\Alexandr\Desktop\Semak 6\Imitation modelling\laba 2\try 1\try 1\bin\Debug\try 1.pdb
+C:\Users\Alexandr\Desktop\Semak 6\Imitation modelling\laba 2\try 1\try 1\obj\Debug\try 1.csproj.AssemblyReference.cache
+C:\Users\Alexandr\Desktop\Semak 6\Imitation modelling\laba 2\try 1\try 1\obj\Debug\try 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alexandr\Desktop\Semak 6\Imitation modelling\laba 2\try 1\try 1\obj\Debug\try_1.Form1.resources
+C:\Users\Alexandr\Desktop\Semak 6\Imitation modelling\laba 2\try 1\try 1\obj\Debug\try_1.Properties.Resources.resources
+C:\Users\Alexandr\Desktop\Semak 6\Imitation modelling\laba 2\try 1\try 1\obj\Debug\try 1.csproj.GenerateResource.cache
+C:\Users\Alexandr\Desktop\Semak 6\Imitation modelling\laba 2\try 1\try 1\obj\Debug\try 1.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\Desktop\Semak 6\Imitation modelling\laba 2\try 1\try 1\obj\Debug\try 1.exe
+C:\Users\Alexandr\Desktop\Semak 6\Imitation modelling\laba 2\try 1\try 1\obj\Debug\try 1.pdb
+C:\Users\User\Documents\GitHub\932001.IM.kovalev_aleksandr.laba2\try 1\bin\Debug\try 1.exe.config
+C:\Users\User\Documents\GitHub\932001.IM.kovalev_aleksandr.laba2\try 1\bin\Debug\try 1.exe
+C:\Users\User\Documents\GitHub\932001.IM.kovalev_aleksandr.laba2\try 1\bin\Debug\try 1.pdb
+C:\Users\User\Documents\GitHub\932001.IM.kovalev_aleksandr.laba2\try 1\obj\Debug\try 1.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\932001.IM.kovalev_aleksandr.laba2\try 1\obj\Debug\try 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\GitHub\932001.IM.kovalev_aleksandr.laba2\try 1\obj\Debug\try_1.Form1.resources
+C:\Users\User\Documents\GitHub\932001.IM.kovalev_aleksandr.laba2\try 1\obj\Debug\try_1.Properties.Resources.resources
+C:\Users\User\Documents\GitHub\932001.IM.kovalev_aleksandr.laba2\try 1\obj\Debug\try 1.csproj.GenerateResource.cache
+C:\Users\User\Documents\GitHub\932001.IM.kovalev_aleksandr.laba2\try 1\obj\Debug\try 1.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\932001.IM.kovalev_aleksandr.laba2\try 1\obj\Debug\try 1.exe
+C:\Users\User\Documents\GitHub\932001.IM.kovalev_aleksandr.laba2\try 1\obj\Debug\try 1.pdb
+C:\Users\User\Documents\GitHub\Imitachi_lab2_Ivanov932002\try 1\obj\Debug\try 1.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\Imitachi_lab2_Ivanov932002\try 1\obj\Debug\try 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\GitHub\Imitachi_lab2_Ivanov932002\try 1\obj\Debug\try_1.Form1.resources
+C:\Users\User\Documents\GitHub\Imitachi_lab2_Ivanov932002\try 1\obj\Debug\try_1.Properties.Resources.resources
+C:\Users\User\Documents\GitHub\Imitachi_lab2_Ivanov932002\try 1\obj\Debug\try 1.csproj.GenerateResource.cache
+C:\Users\User\Documents\GitHub\Imitachi_lab2_Ivanov932002\try 1\obj\Debug\try 1.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\Imitachi_lab2_Ivanov932002\try 1\obj\Debug\try 1.exe
+C:\Users\User\Documents\GitHub\Imitachi_lab2_Ivanov932002\try 1\obj\Debug\try 1.pdb
+C:\Users\User\Documents\GitHub\Imitachi_lab2_Ivanov932002\try 1\bin\Debug\try 1.exe.config
+C:\Users\User\Documents\GitHub\Imitachi_lab2_Ivanov932002\try 1\bin\Debug\try 1.exe
+C:\Users\User\Documents\GitHub\Imitachi_lab2_Ivanov932002\try 1\bin\Debug\try 1.pdb
